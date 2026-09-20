@@ -1,0 +1,12 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# macOS / general
+.DS_Store
+Thumbs.db
